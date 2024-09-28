@@ -29,7 +29,7 @@ Install Custom Chrome Extension
     
 ## Authors
 
-- [@amit0-git](https://www.github.com/amit0-git)
+- [@cyborg0099](https://github.com/cyborg0099)
 
 
 ## Feedback
