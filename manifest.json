@@ -1,0 +1,24 @@
+{
+    "name": "English Dictionary",
+    "version": "1.0.0",
+    "description": "Chrome Extension for searching the meaning of the word.",
+    "manifest_version": 3,
+    "homepage_url": "https://github.com/amit0-git",
+    "author": "Amit Verma",
+    "commands": {
+        "_execute_action": {
+            "suggested_key": "Ctrl+Shift+F",
+            "description": "Open Extension"
+        }
+    },
+    "icons": {
+        "16": "assets/icons8-dictionary-16.png",
+        "32": "assets/icons8-dictionary-32.png",
+        "48": "assets/icons8-dictionary-48.png"
+       
+      },
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "English Dictionary"
+    }
+}
